@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932448875657",
+    "firebase_url": "https://login-fb-d95f5.firebaseio.com",
+    "project_id": "login-fb-d95f5",
+    "storage_bucket": "login-fb-d95f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932448875657:android:a670dfc7d3c20c544fc258",
+        "android_client_info": {
+          "package_name": "com.example.login_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932448875657-1n5vp5cr92293r0afkbfjr9ku456hqnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18finczYdp4E4C3Hl3sDvdPCKBFM2Scw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932448875657-1n5vp5cr92293r0afkbfjr9ku456hqnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
